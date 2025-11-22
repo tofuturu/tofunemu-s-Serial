@@ -1,0 +1,2 @@
+scoreboard objectives add tofunemu_usercount dummy
+scoreboard objectives add tofunemu_serial dummy

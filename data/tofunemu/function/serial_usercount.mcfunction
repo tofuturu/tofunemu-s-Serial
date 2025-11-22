@@ -1,0 +1,1 @@
+execute store result storage tofunemu:usercount usercount.usercount byte 1 run scoreboard players add #tofunemu_usercount tofunemu_usercount 1
