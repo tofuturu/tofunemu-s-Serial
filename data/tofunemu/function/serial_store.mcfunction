@@ -1,1 +1,0 @@
-execute store result storage tofunemu:serial serial byte 1 run scoreboard players get @s tofunemu_serial
